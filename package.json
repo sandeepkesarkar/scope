@@ -1,0 +1,12 @@
+{
+  "name": "scope",
+  "version": "1.0.0",
+  "description": "Electron based data analyzer",
+  "main": "index.js",
+  "repository": "https://github.com/sandeepkesarkar/scope.git",
+  "author": "Sandeep Kesarkar",
+  "license": "MIT",
+  "devDependencies": {
+    "electron": "1.7.10"
+  }
+}
